@@ -1,0 +1,5 @@
+org\wellsfargo\com\wschat\model\DuplicateCount.class
+org\wellsfargo\com\wschat\model\BubbleSort.class
+org\wellsfargo\com\wschat\controller\WsChatController.class
+org\wellsfargo\com\wschat\model\FileUpload.class
+org\wellsfargo\com\wschat\model\Greeting.class
